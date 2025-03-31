@@ -1,1 +1,1 @@
-# food-ordering-app - under development
+# cloud-chef - under development
